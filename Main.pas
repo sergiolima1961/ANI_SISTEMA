@@ -31,7 +31,7 @@ uses
   FireDAC.Phys.FBDef,
   FireDAC.VCLUI.Wait,
   Data.DB,
-  FireDAC.Comp.Client, Vcl.Imaging.pngimage;
+  FireDAC.Comp.Client, Vcl.Imaging.pngimage, Vcl.Imaging.jpeg;
 
 type
   TfMain = class(TForm)
